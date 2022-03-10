@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@viewport {
+  max-zoom: 10.5;
+}
+
+
+body {
+    background-color:#000;
+}
+
+#svg {
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type = "text"] {
+    -webkit - appearance: none;
+}
+
+.rechner-input {
+    color: #fff;
+    background-color: #0000;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.blue {
+    color: #88f;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+}
